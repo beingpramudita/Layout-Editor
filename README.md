@@ -4,7 +4,7 @@ The HelloToast app consists of two Button elements and one TextView. When the us
 <h4>Potrait</h4>
 <img src="https://i.imgur.com/o7wpGjv.gif" width=200>
 <h4>Landscape</h4>
-<img src="https://i.imgur.com/eiQKWm6.gif" width=500>
+<img src="https://i.imgur.com/UTXDkhB.gif" width=500>
 <h1>Tablet</h1>
 <h4>Potrait</h4>
 <img src="https://i.imgur.com/WPysaeC.gif" width=200>
