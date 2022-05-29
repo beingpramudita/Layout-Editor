@@ -19,4 +19,4 @@ The HelloToast app consists of two Button elements and one TextView. When the us
 <h4>Landscape</h4>
 <a href="https://imgur.com/gwIvkf1"><img src="https://i.imgur.com/gwIvkf1.gif" title="source: imgur.com"  width=500/></a>
 <h1>Coding Challenge</h1>
-<a href="https://imgur.com/mr7OSJL"><img src="https://i.imgur.com/mr7OSJL.gif" title="source: imgur.com"  width=200/></a>
+<a href="https://imgur.com/mr7OSJL"><img src="https://i.imgur.com/mr7OSJL.gif" title="source: imgur.com"  width=500/></a>
